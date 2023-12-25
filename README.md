@@ -1,5 +1,5 @@
 # oldest_biz
-Analyzing the oldest businesses using Python. 
+Analyzing the world's oldest businesses using Python. 
 
 <p>The <a href="https://businessfinancing.co.uk/the-oldest-company-in-almost-every-country">dataset</a> comes from BusinessFinancing.co.uk and contains the oldest company that is still in business in almost every country. Here's a breakdown: </p>
 <h3 id="businessesandnew_businesses"><code>businesses</code> and <code>new_businesses</code></h3>
